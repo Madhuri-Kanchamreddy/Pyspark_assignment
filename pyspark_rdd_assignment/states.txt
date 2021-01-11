@@ -1,0 +1,8 @@
+AndhraPradesh,AP
+Telangana,TS
+Kerala,KL
+Gujarat,GJ
+Nagaland,NL
+Haryana,HR
+MadhyaPradesh,MP
+UttarPradesh,UP

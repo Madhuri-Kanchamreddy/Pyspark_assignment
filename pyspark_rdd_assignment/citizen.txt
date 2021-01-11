@@ -1,0 +1,8 @@
+Madhuri,05-06-1997,9876543210,madhuri@gmail.com,AndhraPradesh
+Mounika,19-05-1998,9780564326,mounika@gmail.com,Telangana
+Vaishnavi,29-08-1998,8750673528,vaishnavi@gmail.com,Kerala
+Renuka,16-02-1997,7690532360,renuka@gmail.com,Gujarat
+Meghana,20-03-1997,9086641207,meghana@gmail.com,Nagaland
+Vasuki,18-07-1997,6306431870,vasuki@gmail.com,Haryana
+Priyanka,04-09-1997,90334681097,priyanka@gmail.com,MadhyaPradesh
+Sneha,03-12-1998,9403450987,sneha@gmail.com,UttarPradesh
